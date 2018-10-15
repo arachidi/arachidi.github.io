@@ -1,0 +1,17 @@
+h2 {
+	text-transform: uppercase;
+	margin-top: 140px;
+}
+img {
+	width: 115px;
+	height: 125px;
+	padding: 10px;
+	display: block;
+	margin: 0 auto;
+}
+p {
+	text-align: center;
+}
+.row:nth-child(2) {
+	margin-top: 110px;
+}
