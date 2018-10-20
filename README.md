@@ -6,3 +6,6 @@
 [Урок 9](arachidi.github.io/lesson_9/ "Верстка сайта на bs4") - Верстка сайта на bs4
 
 [Урок 12](arachidi.github.io "Работа с репозиторием на GitHub") - Работа с репозиторием на GitHub
+
+[Урок 13](arachidi.github.io/lesson_13/ "Адаптивная верстка") - Верстка на Pixel Perfect
+
