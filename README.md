@@ -10,3 +10,5 @@
 [Урок 13](arachidi.github.io/lesson_13/ "Адаптивная верстка") - Верстка на Pixel Perfect
 
 [Практика №1](arachidi.github.io/lesson_14/ "Практика") - Практика. Верстка шапки сайта
+
+[Урок 14](arachidi.github.io/lesson_14_1/ "Шрифты") - Подключение шрифтов
