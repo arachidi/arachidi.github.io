@@ -1,0 +1,7 @@
+body {
+    background-color: #5f6c76;
+}
+.fotorama {
+  display: flex;
+  justify-content: center;
+}
