@@ -1,0 +1,67 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url("../img/layer2.png") no-repeat;
+  background-size: cover; 
+  padding-top: 40px;
+}
+.wrap {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+.nav-tabs {
+  border: none;
+}
+.nav-tabs .nav-item {
+    margin-bottom: -2px;
+    margin-left: 5px;
+}
+.nav-tabs .nav-link.active, 
+.nav-tabs .nav-item.show .nav-link {
+  color: white;
+  background-color: #03a5da;
+  border: none;
+}
+.nav-link {
+  background-color: white;
+  color: black;
+}
+.tab-content {
+  width: 627px;
+  height: 400px;
+  border: 10px solid #03a5da;
+  padding: 20px;
+  background-color: black;
+}
+.form-control {
+  background-color: #1e1d1d;
+  border-color: #1e1d1d;
+  margin-top: 40px;
+}
+.text-small, .text-small:hover {
+  color: red;
+}
+#passwordHelp {
+  font-size: 14px;
+}
+.form-check {
+  margin-top: 40px;
+}
+.form-check-label {
+  color: #323131;
+}
+.btn-primary {
+  border: none;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background: radial-gradient(circle, rgba(245,245,247,0) 0%, rgba(0,0,0,1) 98%);
+  background-color: #f44336;
+}
+.btn-primary:hover {
+  background-color: #f44336;
+}
+button {
+  margin: 50px 0 0 550px;
+}
